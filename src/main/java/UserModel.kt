@@ -1,0 +1,1 @@
+data class UserModel(val id: String, val fname: String, val lname: String)
